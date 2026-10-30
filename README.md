@@ -1,5 +1,5 @@
 # Task 2: Interactive Portfolio Website
-A personal portfolio built with plain HTML, CSS and JavaScript. Open index.html in a browser.
+A personal portfolio built with plain HTML, CSS and JavaScript.
 
 ## Features
 - Sections: Home, About, Selected work, Skills, Journey and achievements, Contact
@@ -10,5 +10,4 @@ A personal portfolio built with plain HTML, CSS and JavaScript. Open index.html 
 - Contact form with live validation, character counter and a mailto hand-off
 - Responsive, centred mobile layout, keyboard and screen-reader friendly, reduced-motion support
 
-## Customise
-Edit the top of `app.js`: CONTACT_EMAIL, SOCIALS and the PROJECTS list (add screenshots in `images/`).
+ https://oseka.github.io/
